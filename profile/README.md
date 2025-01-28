@@ -6,7 +6,7 @@
 [![Behance](https://img.shields.io/badge/Behance-%231769FF.svg?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/angra3dstudio)
 [![ArtStation](https://img.shields.io/badge/ArtStation-%232A79C6.svg?style=flat-square&logo=ArtStation&logoColor=white)](https://www.artstation.com/angra_3d_studio)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@Angra3DStudio)
-[![Website](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://angra3dstudio.com)
+[![Website](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://angra3dstudio.com.br)
 
 ## 🎨 Quem Somos
 
